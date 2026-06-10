@@ -1,0 +1,59 @@
+# 🚀 Sistema de Gestão Escolar
+
+Um sistema desenvolvido para facilitar o gerenciamento de alunos, professores e turmas de uma escola.
+
+## 🛠 Tecnologias Utilizadas
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+## 📖 Sobre o Projeto
+
+O Sistema de Gestão Escolar foi criado para auxiliar instituições de ensino no controle de alunos, professores e turmas. O objetivo é centralizar informações importantes em uma única plataforma, tornando os processos mais rápidos e organizados.
+
+## 📸 Demonstração Visual
+
+### Tela de Login
+
+![Tela de Login](assets/login.png)
+
+### Painel Principal
+
+![Painel Principal](assets/dashboard.png)
+
+## ⚙️ Guia de Instalação
+
+### 1. Clonar o Repositório
+
+```bash
+git clone https://github.com/seu-usuario/sistema-escolar.git
+```
+
+### 2. Entrar na Pasta do Projeto
+
+```bash
+cd sistema-escolar
+```
+
+### 3. Configurar o Banco de Dados
+
+* Criar um banco de dados MySQL.
+* Importar o arquivo banco.sql.
+* Configurar usuário e senha no arquivo de conexão.
+
+### 4. Executar a Aplicação
+
+* Iniciar Apache e MySQL.
+* Abrir o navegador.
+* Acessar:
+
+```text
+http://localhost/sistema-escolar
+```
+
+## 👨‍💻 Autor
+
+Pedro Paiva
