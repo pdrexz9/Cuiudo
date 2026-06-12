@@ -1,12 +1,17 @@
-# Olá, eu sou Pedro 👋
+# Olá, eu sou Pedrox
 
 🎓 Estudante de Tecnologia
 
 💻 Interessado em:
-- Desenvolvimento Web
-- Segurança da Informação
-- Banco de Dados
-- UI/UX Design
+- Mulheres
+- Dinheiro
+- Resenha
+
+🎰 Qualidades: 
+- Alto
+- Gostoso
+- Educado
+- Tranquilo
 
 🚀 Atualmente aprendendo:
 - HTML
@@ -27,4 +32,4 @@
 
 ---
 
-⭐ Sempre aprendendo e construindo novos projetos.
+⭐ Nunca foi sorte.
